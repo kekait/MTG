@@ -69,14 +69,3 @@ push.addEventListener("click", function(){
       }
     });
 });
-
-
-    /* for(i = 0; i < str.length; i++){
-        var cost = parseInt(str[0]) + str.length - 1;
-      }
-      info.insertAdjacentHTML("beforeend", 'converted mana cost: ' + cost);
-      var arr1 = str.split('');
-      console.log(arr1);
-
-    });
-});*/
